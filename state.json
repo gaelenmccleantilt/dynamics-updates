@@ -3,7 +3,7 @@
   "pages": {
     "https://learn.microsoft.com/en-us/dynamics365/customer-service/implement/whats-new-customer-service": {
       "last_checked": "2026-07-10",
-      "content": ""
+      "content": "Baseline via GitHub commits Atom feed (learn.microsoft.com itself blocked by egress policy this run). Latest commit: 2025-06-11T10:58:54Z by neeranelli - \"Content update: Updated remaining references of old terminology in assigned topics\". Prior commits: 2025-05-07 (neeranelli, minor doc update), 2025-05-06 (Saisang, metadata/ms.topic bulk update), 2024-11-26 (kimberleybrown, ms.reviewer metadata), 2024-07-31 (neeranelli, incorporated PM suggested changes), 2024-07-23 (neeranelli, minor edits), 2024-07-19 x2 (neeranelli, fixed link; content update for low-engagement articles), 2023-11-21 (bishalgoswami, initial migration)."
     },
     "https://learn.microsoft.com/en-us/dynamics365/customer-service/implement/csw-overview": {
       "last_checked": "2026-07-10",
